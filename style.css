@@ -1,0 +1,38 @@
+.gradient-background {
+  background: linear-gradient(300deg, #15e723, #f6ce09, #ff3410);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.pusstheboots {
+  border-radius: 50%;
+}
+
+#Skill {
+  background-color: goldenrod;
+  color: black;
+}
+
+.bgpuss {
+  height: 100vh;
+  background-image: url("./images/puss-in-boots-the-last-wish-gallery-04b.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+.bgpuss img {
+  width: 450;
+  height: 190;
+  margin-bottom: 20px;
+}
+
+.img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
